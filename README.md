@@ -2,7 +2,7 @@
 
 ## Video ##
 
-SOON
+https://youtu.be/CU2yQH3AX-A
 
 ## Dependencies qb-core (framework) ##
 
